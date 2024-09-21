@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Zero Two - Darling in the Franxx</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header>
+        <h1>Zero Two</h1>
+        <nav>
+            <ul>
+                <li><a href="#bio">Biography</a></li>
+                <li><a href="#image">Image</a></li>
+                <li><a href="#quotes">Quotes</a></li>
+            </ul>
+        </nav>
+    </header>
+    <main>
+        <section id="bio">
+            <h2>Biography</h2>
+            <p>Zero Two is a main character in the anime "Darling in the Franxx." She is a hybrid human-clone known for her iconic pink hair and horns.</p>
+        </section>
+        <section id="image">
+            <h2>Image</h2>
+            <img src="https://example.com/zero_two_image.jpg" alt="Zero Two" />
+        </section>
+        <section id="quotes">
+            <h2>Quotes</h2>
+            <p>"I want to be with you, forever."</p>
+        </section>
+    </main>
+    <footer>
+        <p>&copy; 2024 Zero Two Fan Page</p>
+    </footer>
+</body>
+</html>
+You can click the Preview link to take a look at your changes.
+--->
